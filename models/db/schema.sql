@@ -1,2 +1,3 @@
 DROP DATABASE IF EXISTS blogbook_db;
+
 CREATE DATABASE blogbook_db;

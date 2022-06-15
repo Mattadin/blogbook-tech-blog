@@ -2,17 +2,17 @@ const { Comment } = require('../models');
 
 const commentdata = [
     {
-        comment_text: 'Testing this functionality!',
+        comment_text: 'Yes! I love ORMs as well',
         user_id: 1,
         post_id: 1
     },
     {
-        comment_text: 'Me too!',
+        comment_text: 'Thank you for explaining the difference between authentication and authorization.',
         user_id: 2,
         post_id: 2
     },
     {
-        comment_text: 'Me three!',
+        comment_text: 'Thank you for your explanation on MVC!',
         user_id: 3,
         post_id: 3
     }
